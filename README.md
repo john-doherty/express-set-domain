@@ -15,10 +15,10 @@ Add to your express application before all other routes.
 ```js
 var express = require('express');
 var app = express();
-var forceDomain = require('express-set-domain');
+var setDomain = require('express-set-domain');
 
 // add middleware to force requests to orcascan.com
-app.use(forceDomain('orcascan.com'));
+app.use(setDomain('orcascan.com'));
 
 // typical route
 app.get('/docs/integrations/scan-barcodes-into-microsoft-excel', function(req, res) {
