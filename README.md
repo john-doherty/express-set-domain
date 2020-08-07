@@ -32,7 +32,7 @@ http://www.orcascan.com/docs/integrations/scan-barcodes-into-microsoft-excel
 
 would be 301 redirected to:
 
-http://orcascan.com/docs/integrations/scan-barcodes-into-microsoft-excel.
+http://orcascan.com/docs/integrations/scan-barcodes-into-microsoft-excel
 
 without having to list every potential incoming domain name.
 
