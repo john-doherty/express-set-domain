@@ -1,0 +1,25 @@
+{
+  "name": "express-force-domain",
+  "version": "1.0.0",
+  "description": "Force an express app to use a particular domain by 301 redirecting none matching requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orca-scan/express-force-domain.git"
+  },
+  "keywords": [
+    "express",
+    "redirect",
+    "domain",
+    "301"
+  ],
+  "author": "John Doherty <john@orcascan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orca-scan/express-force-domain/issues"
+  },
+  "homepage": "https://github.com/orca-scan/express-force-domain#readme"
+}
