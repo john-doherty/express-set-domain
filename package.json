@@ -1,6 +1,6 @@
 {
   "name": "express-set-domain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Force an express app to use a particular domain",
   "main": "index.js",
   "scripts": {
