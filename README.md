@@ -1,11 +1,11 @@
-# express-force-domain
+# express-set-domain
 
 Force an express app to use a particular domain by 301 redirecting none matching requests.
 
 ## Install
 
 ```bash
-npm install --save express-force-domain
+npm install --save express-set-domain
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ Add to your express application before all other routes.
 ```js
 var express = require('express');
 var app = express();
-var forceDomain = require('express-force-domain');
+var forceDomain = require('express-set-domain');
 
 // add middleware to force requests to orcascan.com
 app.use(forceDomain('orcascan.com'));
@@ -38,7 +38,7 @@ without having to list every potential incoming domain name.
 
 ## Contributing
 
-Feel free to contribute, either by [raising an issue](https://github.com/orca-scan/express-force-domain/issues) or:
+Feel free to contribute, either by [raising an issue](https://github.com/orca-scan/express-set-domain/issues) or:
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -52,7 +52,7 @@ If you find this useful please star the repo, it helps us prioritize which open 
 
 ## History
 
-For change-log, check [releases](https://github.com/orca-scan/express-force-domain/releases).
+For change-log, check [releases](https://github.com/orca-scan/express-set-domain/releases).
 
 ## License
 

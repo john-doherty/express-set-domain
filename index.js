@@ -1,1 +1,1 @@
-module.exports = require('./lib/express-force-domain.js');
+module.exports = require('./lib/express-set-domain.js');
