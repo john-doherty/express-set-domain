@@ -26,7 +26,15 @@ app.get('/docs/integrations/scan-barcodes-into-microsoft-excel', function(req, r
 });
 ```
 
-Based on the above example, a request to http://www.orcascan.com/docs/integrations/scan-barcodes-into-microsoft-excel would be 301 redirected to http://orcascan.com/docs/integrations/scan-barcodes-into-microsoft-excel.
+Based on the above example, a request to:
+
+http://www.orcascan.com/docs/integrations/scan-barcodes-into-microsoft-excel
+
+would be 301 redirected to:
+
+http://orcascan.com/docs/integrations/scan-barcodes-into-microsoft-excel.
+
+without having to list every potential incoming domain name.
 
 ## Contributing
 
