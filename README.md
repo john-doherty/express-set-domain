@@ -46,6 +46,10 @@ Feel free to contribute, either by [raising an issue](https://github.com/orca-sc
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
+## Star the repo
+
+If you find this useful please star the repo, it helps us priorities which open source bugs to fix first :raised_hands:
+
 ## History
 
 For change-log, check [releases](https://github.com/orca-scan/express-force-domain/releases).
