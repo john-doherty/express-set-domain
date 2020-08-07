@@ -1,7 +1,7 @@
 {
   "name": "express-set-domain",
   "version": "1.0.0",
-  "description": "Force an express app to use a particular domain by 301 redirecting none matching requests",
+  "description": "Force an express app to use a particular domain",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
