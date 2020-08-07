@@ -48,7 +48,7 @@ Feel free to contribute, either by [raising an issue](https://github.com/orca-sc
 
 ## Star the repo
 
-If you find this useful please star the repo, it helps us priorities which open source bugs to fix first :raised_hands:
+If you find this useful please star the repo, it helps us prioritize which open source bugs to fix first :raised_hands:
 
 ## History
 
